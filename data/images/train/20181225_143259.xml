@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Trichodes crabroniformis</folder>
+	<filename>20181225_143259.jpg</filename>
+	<path>C:\Users\gokha\Desktop\DeepLearningPhotos\claridea_etiket\Trichodes crabroniformis\20181225_143259.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1721</width>
+		<height>1048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trichodes_crabroniformis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>288</ymin>
+			<xmax>672</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trichodes_crabroniformis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>957</xmin>
+			<ymin>312</ymin>
+			<xmax>1314</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+</annotation>

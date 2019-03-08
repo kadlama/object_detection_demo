@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Opilo taeniatus</folder>
+	<filename>20181225_144220.jpg</filename>
+	<path>C:\Users\gokha\Desktop\DeepLearningPhotos\claridea_etiket\Opilo taeniatus\20181225_144220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1848</width>
+		<height>2060</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>opilo_taeniatus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>1189</ymin>
+			<xmax>1182</xmax>
+			<ymax>1961</ymax>
+		</bndbox>
+	</object>
+</annotation>
