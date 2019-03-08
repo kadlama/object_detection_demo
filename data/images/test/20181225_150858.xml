@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Trichodes apiarius</folder>
+	<filename>20181225_150858.jpg</filename>
+	<path>C:\Users\gokha\Desktop\DeepLearningPhotos\claridea_etiket\Trichodes apiarius\20181225_150858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1984</width>
+		<height>2271</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trichodes_apiarius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>306</ymin>
+			<xmax>833</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trichodes_apiarius</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>1168</ymin>
+			<xmax>854</xmax>
+			<ymax>1956</ymax>
+		</bndbox>
+	</object>
+</annotation>
