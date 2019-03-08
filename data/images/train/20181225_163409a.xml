@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Trichodes holtzi</folder>
+	<filename>20181225_163409a.jpg</filename>
+	<path>C:\Users\gokha\Desktop\DeepLearningPhotos\claridea_etiket\Trichodes holtzi\20181225_163409a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>1063</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trichodes_holtzi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>252</ymin>
+			<xmax>747</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>
