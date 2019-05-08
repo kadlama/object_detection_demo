@@ -1,0 +1,26 @@
+<annotation>
+	<folder>model</folder>
+	<filename>image36.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/image36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>203</ymin>
+			<xmax>261</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

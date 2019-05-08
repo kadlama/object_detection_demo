@@ -1,0 +1,26 @@
+<annotation>
+	<folder>model</folder>
+	<filename>image80.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/image80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>14</ymin>
+			<xmax>523</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
