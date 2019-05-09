@@ -1,0 +1,26 @@
+<annotation>
+	<folder>model</folder>
+	<filename>image2.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/image2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>53</ymin>
+			<xmax>476</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

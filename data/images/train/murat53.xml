@@ -1,0 +1,26 @@
+<annotation>
+	<folder>murat</folder>
+	<filename>murat53.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/murat/murat53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>murat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>101</ymin>
+			<xmax>456</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

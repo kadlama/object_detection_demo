@@ -1,0 +1,26 @@
+<annotation>
+	<folder>citroen</folder>
+	<filename>citroen15.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/citroen/citroen15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>citroen</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>62</ymin>
+			<xmax>327</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

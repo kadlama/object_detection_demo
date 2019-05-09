@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mercedes</folder>
+	<filename>mercedes14.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/mercedes/mercedes14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mercedes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>70</ymin>
+			<xmax>486</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

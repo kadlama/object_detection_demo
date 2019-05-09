@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peugeot</folder>
+	<filename>peugeot36.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/peugeot/peugeot36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peugeot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>113</ymin>
+			<xmax>495</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

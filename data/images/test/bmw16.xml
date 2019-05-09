@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bmw</folder>
+	<filename>bmw16.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/bmw/bmw16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bmw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>93</ymin>
+			<xmax>447</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

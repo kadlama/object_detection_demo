@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peugeot</folder>
+	<filename>peugeot22.jpg</filename>
+	<path>/Users/mebpro-1/Desktop/model/peugeot/peugeot22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peugeot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>116</ymin>
+			<xmax>448</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
